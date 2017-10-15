@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping pattern="CreateEditComponent" type="TypeScript JSX" />
-    </extensionMap>
-  </component>
-</application>
